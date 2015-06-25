@@ -6,9 +6,11 @@ Elasticsearch Logstash Kibana
 
 ### Bitnami: Elasticsearch Cloud Hosting on Azure 
 
-<https://bitnami.com/stack/elasticsearch/cloud/azure>
+* <https://bitnami.com/stack/elasticsearch/cloud/azure>
+* <https://bitnami.com/stack/elasticsearch/cloud/amazon>
+* <https://bitnami.com/stack/elasticsearch/cloud/google>
 
-Bitnami has partnered with Microsoft to make Elasticsearch available on Azure. Launch Elasticsearch with one click from the Bitnami Launchpad for Azure. It is free and it takes only a minute.
+Bitnami has partnered with Microsoft, Amazon and Google to make Elasticsearch available.
 
 ### Bonsai - Hosted Elasticsearch
 
