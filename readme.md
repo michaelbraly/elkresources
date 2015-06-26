@@ -4,7 +4,7 @@ Elasticsearch Logstash Kibana
 
 ## Hosted Elasticsearch
 
-### Bitnami: Elasticsearch Cloud Hosting on Azure 
+### Bitnami 
 
 * <https://bitnami.com/stack/elasticsearch/cloud/azure>
 * <https://bitnami.com/stack/elasticsearch/cloud/amazon>
@@ -12,37 +12,37 @@ Elasticsearch Logstash Kibana
 
 Bitnami has partnered with Microsoft, Amazon and Google to make Elasticsearch available.
 
-### Bonsai - Hosted Elasticsearch
+### Bonsai
 
 <https://bonsai.io/>
 
 Bonsai is a fully managed full-text search engine. We’ll run the servers so you can build a great app.
 
-### Compose: Hosted Elasticsearch Databases with Compose
+### Compose
 
 <https://www.compose.io/elasticsearch/>
 
 Instantly add a hosted and fully-managed search engine to your application.
 
-### DigitalOcean: ELK Stack Cloud Server One-Click Install & Deploy
+### DigitalOcean
 
 <https://www.digitalocean.com/features/one-click-apps/elk/>
 
 One-click install and deploy ELK to an SSD cloud server in 55 seconds.
 
-### Facetflow: Hosted Elasticsearch 
+### Facetflow 
 
 <https://facetflow.com/>
 
 Empower your Microsoft Azure applications with real-time search and analytics using Elasticsearch. Focus 100% on building your application, and let us take care of the infrastructure.
 
-### Found by Elastic: Hosted Elasticsearch
+### Found by Elastic
 
 <https://www.found.no/>
 
 Build your own Elasticsearch cluster in seconds.  Hosted and managed by our search experts.
 
-### Qbox: Hosted Elasticsearch
+### Qbox
 
 <http://qbox.io/>
 
