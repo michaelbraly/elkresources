@@ -8,7 +8,13 @@ Elasticsearch Logstash Kibana
 
 * <https://bitnami.com/stack/elasticsearch/cloud/azure>
 * <https://bitnami.com/stack/elasticsearch/cloud/amazon>
+* <https://bitnami.com/stack/elasticsearch/cloud/centurylink>
+* <https://bitnami.com/stack/elasticsearch/cloud/digitalocean>
 * <https://bitnami.com/stack/elasticsearch/cloud/google>
+* <https://bitnami.com/stack/elasticsearch/cloud/oracle>
+* <https://bitnami.com/stack/elasticsearch/cloud/vmware>
+* <https://bitnami.com/stack/elasticsearch/cloud/1and1>
+
 
 Bitnami has partnered with Microsoft, Amazon and Google to make Elasticsearch available.
 
@@ -22,7 +28,7 @@ Bonsai is a fully managed full-text search engine. We’ll run the servers so yo
 
 <https://www.compose.io/elasticsearch/>
 
-Instantly add a hosted and fully-managed search engine to your application.
+An IBM Company. Instantly add a hosted and fully-managed search engine to your application. Starting at only $45.00/mo.
 
 ### DigitalOcean
 
