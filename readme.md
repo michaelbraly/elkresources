@@ -1,10 +1,10 @@
 # ELK resources
 
-Elasticsearch Logstash Kibana 
+Elasticsearch Logstash Kibana
 
 ## Hosted Elasticsearch
 
-### Bitnami 
+### Bitnami
 
 * <https://bitnami.com/stack/elasticsearch/cloud/azure>
 * <https://bitnami.com/stack/elasticsearch/cloud/amazon>
@@ -30,17 +30,17 @@ Instantly add a hosted and fully-managed search engine to your application.
 
 One-click install and deploy ELK to an SSD cloud server in 55 seconds.
 
-### Facetflow 
+### Facetflow
 
 <https://facetflow.com/>
 
 Empower your Microsoft Azure applications with real-time search and analytics using Elasticsearch. Focus 100% on building your application, and let us take care of the infrastructure.
 
-### Found by Elastic
+### Elastic Cloud
 
-<https://www.found.no/>
+<https://www.elastic.co/cloud>
 
-Build your own Elasticsearch cluster in seconds.  Hosted and managed by our search experts.
+Quickly deploy and manage a secure cluster running the latest versions of Elasticsearch and Kibana. Try it out. 14 Days. No credit card required.
 
 ### Qbox
 
